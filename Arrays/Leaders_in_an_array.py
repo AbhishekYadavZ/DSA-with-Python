@@ -1,4 +1,5 @@
 # Python Function to print leaders in array
+# Python program
 
 def LeadersArray(arr,size):
     for i in range(0,size):
